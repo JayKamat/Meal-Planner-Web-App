@@ -2,8 +2,8 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "PORT=8000 next dev",
+"scripts": {
+    "dev": "PORT=3000 next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
